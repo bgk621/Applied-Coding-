@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: purple;
+  text-align: beginning;
+}
+
+p {
+  font-family: ariel;
+  font-size: 40px;
+}
+</style>
+</head>
+<body>
+
+<h1>Applied Coding 1</h1>
+<p>Encoding and the power of being in the rhythm of evolving progress</p>
+
+</body>
+</html>
